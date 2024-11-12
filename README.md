@@ -1,4 +1,4 @@
-# Note Application
+# NoteApp# Note Application
 
 This is a simple Note Application built using the Laravel framework. It allows users to create, edit, delete, and view notes.
 
