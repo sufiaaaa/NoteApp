@@ -52,7 +52,7 @@ Run the following command to start the Laravel development server:
 
     php artisan serve
 
-This will run the app at http://127.0.0.1:8000.
+This will run the app at http://127.0.0.1:8000/notes
 
 
 **Usage**
